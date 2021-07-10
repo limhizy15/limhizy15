@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @limhizy15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-limhizy15/limhizy15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heeji)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=heeji&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/limhizy15)
