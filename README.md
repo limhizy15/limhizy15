@@ -9,6 +9,4 @@ limhizy15/limhizy15 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/limhizy15)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/limhizy15/limhizy15.github.io)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=limhizy15)](https://github.com/anuraghazra/github-readme-stats)
