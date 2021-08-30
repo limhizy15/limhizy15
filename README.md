@@ -1,4 +1,4 @@
-Hi! I'm Heeji Im
+# Hi! I'm Heeji 
 
 ### Languages & Tools
 
@@ -9,7 +9,7 @@ Hi! I'm Heeji Im
 
 ### About Me
 
-💌 Contact me : limhizy15@ajou.ac.kr <br>
+💌 Contact : limhizy15@ajou.ac.kr <br>
 🚀 TIL : [Velog](https://velog.io/@limhizy15)
 
 
