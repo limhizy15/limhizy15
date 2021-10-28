@@ -15,8 +15,8 @@
 
 ### About Me
 
-💌 Contact : limhizy15@ajou.ac.kr <br>
-💡 TIL : [Velog](https://velog.io/@limhizy15)
+💌  Contact : limhizy15@ajou.ac.kr <br>
+💡  Blog : [Velog](https://velog.io/@limhizy15)
 
 
 ### Status
