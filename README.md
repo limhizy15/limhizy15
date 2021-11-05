@@ -17,6 +17,7 @@
 
 💌  Contact : limhizy15@ajou.ac.kr <br>
 💡  Blog : [Velog](https://velog.io/@limhizy15)
+🎗  이력서는 여기서 -> [링크](https://singnastudy.notion.site/2382cef60f594e2c962abc1b9d91258c)
 
 
 ### Status
