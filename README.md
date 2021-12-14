@@ -28,4 +28,3 @@ I ❤️ love front-end Development!
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![heeji's github stats](https://github-readme-stats.vercel.app/api?username=limhizy15&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=limhizy15&layout=compact&hide=Visual%20Basic)
