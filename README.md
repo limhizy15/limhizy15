@@ -1,12 +1,10 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Heeji Im
 
-<!-- [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=xlbd.me&url=https%3A%2F%2Fxlbd.me)](https://xlbd.me) -->
-
 I ❤️ love front-end Development!
 
-:computer: I am currently learning web development with JavaScript, also React.
+:computer:  I am currently learning web development with JavaScript, and also React.
 
-💌  You can contact to me with limhizy15@ajou.ac.kr
+💌   You can contact me with limhizy15@ajou.ac.kr
 
 ✍️ My Blog! [link](https://velog.io/@limhizy15) / My Portfolio! [link](https://singnastudy.notion.site/2382cef60f594e2c962abc1b9d91258c)
 
