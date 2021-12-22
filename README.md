@@ -6,7 +6,7 @@ I ❤️ love front-end Development!
 
 💌   You can contact me with limhizy15@ajou.ac.kr
 
-✍️ My Blog! [link](https://velog.io/@limhizy15) / My Portfolio! [link](https://singnastudy.notion.site/2382cef60f594e2c962abc1b9d91258c)
+✍️ My Blog! [link](https://velog.io/@limhizy15) / My Portfolio! [link](https://limhizy15.oopy.io/)
 
 <!-- <br> -->
 
