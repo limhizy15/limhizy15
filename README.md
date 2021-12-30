@@ -22,7 +22,3 @@ I ❤️ love front-end Development!
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![heeji's github stats](https://github-readme-stats.vercel.app/api?username=limhizy15&show_icons=true&theme=dracula)
