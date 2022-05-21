@@ -6,7 +6,7 @@ I ❤️ love front-end Development!
 
 💌   You can contact me with limhizy15@ajou.ac.kr
 
-✍️ My Blog! [link](limhizy15.github.io/) / My Portfolio! [link](https://limhizy15.oopy.io/)
+✍️ My Blog! [link](https://heeji-blog.oopy.io/) / My Portfolio! [link](https://limhizy15.oopy.io/)
 
 <!-- <br> -->
 
