@@ -2,7 +2,7 @@
 
 I ❤️ love front-end Development!
 
-:computer:  I am currently working with React Native and TypeScript.
+:computer:  I am currently working with React and TypeScript.
 
 💌   You can contact me with limhizy15@ajou.ac.kr
 
