@@ -4,9 +4,9 @@ I ❤️ love front-end Development!
 
 :computer:  I am currently working with React and TypeScript.
 
-💌   You can contact me with limhizy15@ajou.ac.kr
+💌   You can contact me with heeji289@gmail.com
 
-✍️ My Blog! [link](https://heeji.dev/) / My Portfolio! [link](https://limhizy15.oopy.io/)
+✍️ My Blog! [link](https://heeji.dev/)
 
 <!-- <br> -->
 
